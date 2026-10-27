@@ -134,7 +134,7 @@ A CUDA-compatible NVIDIA GPU is optional. Training can be slower on a CPU.
 
 ```bash
 
-git clone YOUR\_GITHUB\_REPOSITORY\_URL
+git clone https://github.com/karnalesanchita17-boop/PlacementPrepLM.git
 
 cd PlacementPrepLM
 
