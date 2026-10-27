@@ -1,0 +1,136 @@
+Question: What is a data structure?
+
+Answer: A data structure is a way of organizing and storing data so that it can be accessed and modified efficiently. Examples include arrays, linked lists, stacks, queues, trees, and graphs.
+
+Question: What is an algorithm?
+
+Answer: An algorithm is a finite sequence of well-defined steps used to solve a problem. A good algorithm should be correct and reasonably efficient.
+
+Question: What is the difference between a stack and a queue?
+
+Answer: A stack follows Last In, First Out, also called LIFO. A queue follows First In, First Out, also called FIFO. A stack is like a pile of plates, while a queue is like people waiting in a line.
+
+Question: What is object-oriented programming?
+
+Answer: Object-oriented programming is a programming approach that organizes code around objects containing data and methods. Its main concepts include encapsulation, inheritance, polymorphism, and abstraction.
+
+Question: What is a variable in Python?
+
+Answer: A variable is a name that refers to a value in a program. For example, score = 90 assigns the integer value 90 to the variable named score.
+
+Question: What is a function?
+
+Answer: A function is a reusable block of code designed to perform a particular task. Functions can accept inputs called parameters and may return a result.
+
+Question: What is a database?
+
+Answer: A database is an organized collection of data. A database management system helps users create, retrieve, update, and manage that data.
+
+Question: What is SQL?
+
+Answer: SQL stands for Structured Query Language. It is used to retrieve and manipulate data in relational databases. SELECT retrieves records, INSERT adds records, UPDATE modifies records, and DELETE removes records.
+
+Question: What is a primary key?
+
+Answer: A primary key is a column or combination of columns that uniquely identifies each row in a database table. A primary key cannot contain duplicate values.
+
+Question: What is an operating system?
+
+Answer: An operating system manages computer hardware and software resources. It provides services for programs and users. Examples include Windows, Linux, and macOS.
+
+Question: What is computer networking?
+
+Answer: Computer networking is the connection of two or more computing devices so they can exchange data and share resources.
+
+Question: What is the difference between HTTP and HTTPS?
+
+Answer: HTTP is a protocol used to transfer web data. HTTPS uses TLS encryption to protect data exchanged between a browser and a web server.
+
+Question: What is machine learning?
+
+Answer: Machine learning is a field of artificial intelligence in which computer systems learn patterns from data to make predictions or decisions without being explicitly programmed with every rule.
+
+Question: What is a resume?
+
+Answer: A resume is a concise document describing a candidate's education, skills, projects, experience, and achievements. It helps employers evaluate a candidate for a job.
+
+Question: How should a student prepare for a technical interview?
+
+Answer: A student should understand programming fundamentals, practice data structures and algorithms, revise core computer science subjects, explain personal projects clearly, and solve practice problems regularly.
+
+Question: How can a student explain a project in an interview?
+
+Answer: A student should explain the problem, the project's objective, the technologies used, the design, their personal contribution, the challenges faced, and the results. The student should be prepared to explain the code and design decisions.
+
+Question: What is debugging?
+
+Answer: Debugging is the process of finding, analyzing, and fixing errors in a program. A programmer can use error messages, print statements, logs, and debugging tools to identify problems.
+
+Question: What is Git?
+
+Answer: Git is a version control system that tracks changes in files and helps developers collaborate on software projects. It supports branching and merging.
+
+Question: What is the difference between frontend and backend development?
+
+Answer: Frontend development focuses on the interface users interact with. Backend development handles application logic, data processing, authentication, and communication with databases or other services.
+
+
+Question: What is object-oriented programming?
+
+Answer: Object-oriented programming is a programming approach based on classes and objects. Its main concepts are encapsulation, inheritance, polymorphism, and abstraction.
+
+Question: What is inheritance in Java?
+
+Answer: Inheritance is a feature in Java where one class acquires properties and methods from another class. It supports code reuse.
+
+Question: What is polymorphism?
+
+Answer: Polymorphism means one interface can have different forms. In Java, method overloading and method overriding are examples of polymorphism.
+
+Question: What is a constructor in Java?
+
+Answer: A constructor is a special class member used to initialize an object. It has the same name as the class and does not have a return type.
+
+Question: What is the difference between a stack and a queue?
+
+Answer: A stack follows Last In First Out, while a queue follows First In First Out. A stack uses push and pop operations, while a queue uses enqueue and dequeue operations.
+
+Question: What is binary search?
+
+Answer: Binary search is an algorithm that searches a sorted collection by repeatedly dividing the search range into two halves. Its time complexity is O(log n).
+
+Question: What is a database?
+
+Answer: A database is an organized collection of data. It allows users and applications to store, retrieve, update, and manage information.
+
+Question: What is a primary key?
+
+Answer: A primary key is a column or combination of columns that uniquely identifies each row in a database table. It cannot contain duplicate or null values.
+
+Question: What is normalization in DBMS?
+
+Answer: Normalization is the process of organizing database tables to reduce unnecessary data duplication and improve data consistency.
+
+Question: What is an operating system?
+
+Answer: An operating system is system software that manages computer hardware and software resources. Examples include Windows, Linux, and macOS.
+
+Question: What is a process in an operating system?
+
+Answer: A process is a program that is currently executing. The operating system manages processes and allocates resources to them.
+
+Question: What is an IP address?
+
+Answer: An IP address is a numerical address used to identify a device on an IP network. It helps devices communicate with each other.
+
+Question: What is machine learning?
+
+Answer: Machine learning is a branch of artificial intelligence in which systems learn patterns from data and use those patterns to make predictions or decisions.
+
+Question: What is Git?
+
+Answer: Git is a distributed version control system used to track changes in files and support collaboration among developers.
+
+Question: How should I explain my college project in an interview?
+
+Answer: I should explain the problem my project solves, its objectives, the technologies used, my individual contribution, the main implementation steps, and the results. I should also be prepared to explain the limitations and future improvements.
